@@ -133,6 +133,7 @@ public class MainActivity extends AppCompatActivity {
                             })
                             .setNegativeButton("No", null)
                             .show();
+                    Log.i("commit","commit");
                     return true;
 
                 }
